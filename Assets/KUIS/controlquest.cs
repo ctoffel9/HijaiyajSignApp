@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class controlquest : MonoBehaviour
 {
@@ -61,6 +62,7 @@ public class controlquest : MonoBehaviour
             }
            else
             {
+                SceneManager.LoadScene("Bermain");
                 Debug.Log("Finish Game");
             }
         }

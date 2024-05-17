@@ -5,7 +5,7 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   - enabled: 1
@@ -110,6 +110,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scene abata/ya.unity
     guid: 34fcfa55af506894591f5015a1871eb6
+  - enabled: 1
+    path: Assets/Scenes/cocokan.unity
+    guid: 92867513b969d4846ae5e7ff9dd150d1
   - enabled: 1
     path: Assets/marka.unity
     guid: 47275f3b59016e04d9d788ec7b46c43c

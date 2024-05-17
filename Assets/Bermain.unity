@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.18028334, g: 0.2257134, b: 0.30692226, a: 1}
+  m_IndirectSpecularColor: {r: 0.18028378, g: 0.22571412, b: 0.30692285, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -664,10 +664,10 @@ RectTransform:
   m_Father: {fileID: 2016316559}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.8407037, y: 0.906}
-  m_AnchorMax: {x: 0.8407037, y: 0.906}
-  m_AnchoredPosition: {x: -370.52, y: -1638.8}
-  m_SizeDelta: {x: 1088, y: 201.34}
+  m_AnchorMin: {x: 0.5, y: 0}
+  m_AnchorMax: {x: 0.5, y: 0}
+  m_AnchoredPosition: {x: 0.000030517578, y: 100.66992}
+  m_SizeDelta: {x: 1088, y: 201.33997}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &953918017
 MonoBehaviour:
@@ -1017,7 +1017,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0.53270835}
   m_AnchorMax: {x: 0.7018519, y: 0.6795313}
-  m_AnchoredPosition: {x: 87.425, y: 372.3862}
+  m_AnchoredPosition: {x: 87.42499, y: 372.38623}
   m_SizeDelta: {x: 212.63, y: 104.2327}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1742095277
@@ -1177,10 +1177,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_UiScaleMode: 0
+  m_UiScaleMode: 1
   m_ReferencePixelsPerUnit: 100
   m_ScaleFactor: 1
-  m_ReferenceResolution: {x: 800, y: 600}
+  m_ReferenceResolution: {x: 1080, y: 1920}
   m_ScreenMatchMode: 0
   m_MatchWidthOrHeight: 0
   m_PhysicalUnit: 3
@@ -1197,8 +1197,8 @@ Canvas:
   m_GameObject: {fileID: 2016316555}
   m_Enabled: 1
   serializedVersion: 3
-  m_RenderMode: 0
-  m_Camera: {fileID: 0}
+  m_RenderMode: 1
+  m_Camera: {fileID: 1454467960}
   m_PlaneDistance: 100
   m_PixelPerfect: 0
   m_ReceivesEvents: 1
