@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="1alif" size="2.000000 2.998590" />
+    <ImageTarget name="2ba" size="2.000000 2.998590" />
+    <ImageTarget name="30ya-01" size="2.000000 2.998590" />
+    <ImageTarget name="29hamzah-01" size="2.000000 2.998590" />
+    <ImageTarget name="28lamalif-01" size="2.000000 2.998590" />
+    <ImageTarget name="27habesar-01" size="2.000000 2.998590" />
+    <ImageTarget name="26wawu-01" size="2.000000 2.998590" />
+    <ImageTarget name="25nun-01" size="2.000000 2.998590" />
+    <ImageTarget name="24mim-01" size="2.000000 2.998590" />
+    <ImageTarget name="23lam-01" size="2.000000 2.998590" />
+    <ImageTarget name="22kaf-01" size="2.000000 2.998590" />
+    <ImageTarget name="21qof-01" size="2.000000 2.998590" />
+    <ImageTarget name="20fa-01" size="2.000000 2.998590" />
+    <ImageTarget name="19ghain-01" size="2.000000 2.998590" />
+    <ImageTarget name="18ain-01" size="2.000000 2.998590" />
+    <ImageTarget name="17dzho-01" size="2.000000 2.998590" />
+    <ImageTarget name="16tho-01" size="2.000000 2.998590" />
+    <ImageTarget name="15dhod-01" size="2.000000 2.998590" />
+    <ImageTarget name="14shod-01" size="2.000000 2.998590" />
+    <ImageTarget name="13syin-01" size="2.000000 2.998590" />
+    <ImageTarget name="12sin-01" size="2.000000 2.998590" />
+    <ImageTarget name="11zai-01" size="2.000000 2.998590" />
+    <ImageTarget name="10ro-01" size="2.000000 2.998590" />
+    <ImageTarget name="8dal-01" size="2.000000 2.998590" />
+    <ImageTarget name="7kho-01" size="2.000000 2.998590" />
+    <ImageTarget name="6ha-01-01" size="2.000000 2.998590" />
+    <ImageTarget name="5ja-01" size="2.000000 2.998590" />
+    <ImageTarget name="4tsa-01" size="2.000000 2.998590" />
+    <ImageTarget name="3ta-01" size="2.000000 2.998590" />
+  </Tracking>
+</QCARConfig>

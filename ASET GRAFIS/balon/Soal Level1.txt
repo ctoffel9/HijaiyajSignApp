@@ -1,0 +1,6 @@
+#Image_dal@Alif (ا)@Dal (د)@Shod @Kaf@1
+#Image_wawu@Wawu@Hamzah@Lam@Ya@0
+#image_dhod@Kho@mim@Dhod@wawu@2
+#Image_ta@Dzho@Sin@Ta@Ro@2
+#Image_kho@Dzal@Syin@Ba@Kho@3
+ 

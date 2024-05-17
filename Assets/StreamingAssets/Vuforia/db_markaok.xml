@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="marka-17" size="2.000000 2.945217" />
+    <ImageTarget name="marka-16" size="2.000000 2.943937" />
+    <ImageTarget name="marka-15" size="2.000000 2.945217" />
+    <ImageTarget name="marka-14" size="2.000000 2.945217" />
+    <ImageTarget name="marka-13" size="2.000000 2.945217" />
+    <ImageTarget name="marka-12" size="2.000000 2.943937" />
+    <ImageTarget name="marka-11" size="2.000000 2.945217" />
+    <ImageTarget name="marka-10" size="2.000000 2.945217" />
+    <ImageTarget name="marka-09" size="2.000000 2.945217" />
+    <ImageTarget name="marka-08" size="2.000000 2.943937" />
+    <ImageTarget name="marka-07" size="2.000000 2.945217" />
+    <ImageTarget name="marka-06" size="2.000000 2.945217" />
+    <ImageTarget name="marka-05" size="2.000000 2.945217" />
+    <ImageTarget name="marka-04" size="2.000000 2.943068" />
+    <ImageTarget name="marka-03" size="2.000000 2.944348" />
+    <ImageTarget name="marka-02" size="2.000000 2.944348" />
+    <ImageTarget name="marka-01" size="2.000000 2.944348" />
+  </Tracking>
+</QCARConfig>

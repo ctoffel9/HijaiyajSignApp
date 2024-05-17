@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="Marker-17" size="2.000000 2.951691" />
+    <ImageTarget name="Marker-16" size="2.000000 2.939759" />
+    <ImageTarget name="Marker-15" size="2.000000 2.939759" />
+    <ImageTarget name="Marker-14" size="2.000000 2.939759" />
+    <ImageTarget name="Marker-13" size="2.000000 2.946860" />
+    <ImageTarget name="Marker-12" size="2.000000 2.944578" />
+    <ImageTarget name="Marker-11" size="2.000000 2.944578" />
+    <ImageTarget name="Marker-10" size="2.000000 2.944578" />
+    <ImageTarget name="Marker-09" size="2.000000 2.951691" />
+    <ImageTarget name="Marker-08" size="2.000000 2.939759" />
+    <ImageTarget name="Marker-07" size="2.000000 2.939759" />
+    <ImageTarget name="Marker-06" size="2.000000 2.939759" />
+    <ImageTarget name="Marker-05" size="2.000000 2.946860" />
+    <ImageTarget name="Marker-04" size="2.000000 2.939759" />
+    <ImageTarget name="Marker-03" size="2.000000 2.939759" />
+    <ImageTarget name="Marker-02" size="2.000000 2.939759" />
+    <ImageTarget name="Marker-01" size="2.000000 2.946860" />
+  </Tracking>
+</QCARConfig>

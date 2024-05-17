@@ -1,0 +1,141 @@
+Tanda berbentuk garis yang berada pada permukaan jalan disebut...
++A.Marka Jalan
++B.Rambu
++C.APD
++D.APILL
++A
+
+#Apakah arti dari marka jalan garis utuh..
++A.Kendaraan Boleh Melintasi Garis tersebut
++B.Kendaraan tidak boleh melintasi dan menyalip pada garis tersebut
++C.Kendaraan boleh menyalip pada garis tersebut
++D.Semua jawaban benar
++B
+
+#Marka jalan yang berfungsi sebagai tempat menyebrang untuk pejalan kaki disebut?
++A.Marka Putus-Putus
++B.Zebra Cross
++C.Marka Garis Utuh
++D.Marka Lambang
++B
+
+#Tidak boleh melewati marka pada kedua sisi jalan, merupakan pengertian dari marka?
++A.Yellow Box
++B.Marka Lambang
++C.Marka Membujur dua garis
++D.Zebra Cross
++C
+
+#Apakah arti dari marka berbiku-biku adalah …
++A. Marka Dilarang Berhenti
++B. Marka Khusus Sepeda	
++C. Marka Khusus Bus
++D. Marka Menyebrang
++A
+
+#Jika bertemu dengan marka Zona Selamat Sekolah hal yang harus dilakukan adalah?
++A. Menambah kendaraan
++B. Mengurangi kecepatan kendaraan
++C. Berhenti kendaraan
++D. Semua salah
++B
+
+#Apa arti dari marka membujur garis ganda utuh?
++A.Kendaraan boleh menyalip 
++B.Kendaraan tidak boleh melintasi garis tersebut
++C.Menurunkan kecepatan
++D.Menambah kecepatan
++B
+
+#Apa fungsi dari marka melintang garis putus-putus?
++A.Menurunkan kecepatan
++B.Batas untuk berhenti sementara
++C.Kendaraan boleh menyalip
++D.Semua jawaban salah
++B
+
+#Apa fungsi dari pola chevron?
++A.digunakan untuk lalu lintas 1 arah	
++B.digunakan untuk lalu lintas 2 arah
++C.berhenti kendaraan
++D.menurunkan kecepatan
++A
+
+#Apa fungsi dari pola garis miring?
++A.digunakan untuk lalu lintas 1 arah	
++B.digunakan untuk lalu lintas 2 arah
++C. berhenti kendaraan
++D. menurunkan kecepatan
++B
+
+#Apakah arti dari marka gambar sepeda?
++A.Jalan Khusus Motor
++B.Jalan Khusus Sepeda
++C.Jalan Khusus Bus
++D.Jalan Khusus Mobil
++B
+
+#Apakah arti dari marka gambar motor?
++A.Jalan Khusus Motor
++B.Jalan Khusus Sepeda
++C.Jalan Khusus Bus
++D.Jalan Khusus Mobil
++A
+
+#berguna untuk mencegah kepadatan di persimpangan merupakan fungsi dari marka?
++A.marka berbiku-biku
++B.marka garis utuh
++C.marka kotak kuning
++D.marka garis putus-putus
++C
+
+#berguna sebagai garis berhenti kendaraan dan mengutamakan kendaraan lain melaju terlebih dahulu merupakan fungsi dari marka?
++A.marka berbiku-biku
++B.marka garis utuh
++C.marka lambang segitiga
++D.marka garis putus-putus
++C
+
+#marka lambang tanda panah berfungsi untuk?
++A.untuk memberi petunjuk sebagai pemisah arus lalu lintas sebelum persimpangan
++B.untuk memberi petuntuk didepan ada jembatan
++C.memberi petunjuk ada jalanan yang rusak
++D.sebagai tanda berhenti kendaraan
++A
+
+#pengendara diperbolehkan memasuki area tersebut apabila situasi darurat merupakan fungsi marka?
++A. marka garis putus-putus
++B. marka serong garis utuh
++C. marka kotak kuning
++D. marka serong garis putus-putus
++D
+
+#Pengendara tidak boleh memasuki area tersebut merupakan fungsi marka?
++A. marka garis putus-putus
++B. marka serong garis utuh
++C. marka kotak kuning
++D. marka serong garis putus-putus
++B
+
+#Berguna sebagai batas garis berhenti kendaraan saat lampu lalu lintas berwarna merah merupakan fungsi dari marka ?
++A. marka berbiku-biku
++B.marka ganda garis utuh
++C. marka melintang garis utuh
++D. marka garis putus-putus
++C
+
+#Apa fungsi dari marka garis putus-putus?
++A. Kendaraan boleh menyalip 
++B. Kendaraan tidak boleh melintasi garis tersebut
++C. Menurunkan kecepatan
++D. Menambah kecepatan
++A
+
+#Digunakan untuk lalu lintas dua arah merupakan fungsi pola marka?
++A. pola marka garis miring 
++B. pola marka garis segitiga
++C. pola marka chevron
++D. pola marka persegi
++A
+
+

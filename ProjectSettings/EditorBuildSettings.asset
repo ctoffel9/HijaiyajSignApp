@@ -1,0 +1,122 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/info.unity
+    guid: 92b46eb8f088595449348f95b5887c33
+  - enabled: 1
+    path: Assets/mulai.unity
+    guid: c80a9f4140cfd9946877af8950a5d5e4
+  - enabled: 1
+    path: Assets/ayomengenal.unity
+    guid: 96b4d517dc48f69459feeb180521729a
+  - enabled: 1
+    path: Assets/teskamerahija.unity
+    guid: 794cdb2a35003564c90d74a5ceb6ea51
+  - enabled: 1
+    path: Assets/Scene abata/alif.unity
+    guid: 73ebc51c74e2ad94184345c8e1ae37e3
+  - enabled: 1
+    path: Assets/Scene abata/ba.unity
+    guid: 0eb73ab752e8b4a4795f6ad71d56dfef
+  - enabled: 1
+    path: Assets/Scene abata/ta.unity
+    guid: 5129cbbfc9d6bda459d5a5f3201c7317
+  - enabled: 1
+    path: Assets/Scene abata/tsa.unity
+    guid: 3c6805da5875ebd41aae896c263f16d6
+  - enabled: 1
+    path: Assets/Scene abata/jim.unity
+    guid: a0eaa3f3e2710884593ac450b91d4692
+  - enabled: 1
+    path: Assets/Scene abata/ha.unity
+    guid: 13889710e4b7eb94ab6b3a04c0cc2614
+  - enabled: 1
+    path: Assets/Scene abata/kho.unity
+    guid: 4bc926a7be45cbe4f9f58ed4311653ce
+  - enabled: 1
+    path: Assets/Scene abata/dal.unity
+    guid: eaa5468e08ef47044a63e51d52009a98
+  - enabled: 1
+    path: Assets/Scene abata/dzal.unity
+    guid: 696649e7d01c1b54b80d5cd055644a35
+  - enabled: 1
+    path: Assets/Scene abata/ro.unity
+    guid: 95100fcec5e9ac643b1ac00f2c05ad97
+  - enabled: 1
+    path: Assets/Scene abata/zai.unity
+    guid: c2768aabbb36b9c49a99542a78e0bbae
+  - enabled: 1
+    path: Assets/Scene abata/sin.unity
+    guid: 681f49802e452044f8c0b84caa194bfc
+  - enabled: 1
+    path: Assets/Scene abata/syin.unity
+    guid: 7714296f26e12954fb8c441092aeada7
+  - enabled: 1
+    path: Assets/Scene abata/shod.unity
+    guid: 8002986c0a0879840be17a81c6646ff4
+  - enabled: 1
+    path: Assets/Scene abata/dhod.unity
+    guid: 47d3a3c66217f9240be6c106f0669777
+  - enabled: 1
+    path: Assets/Scene abata/dzho.unity
+    guid: a03971da1ea29084f96f95d0815a38f5
+  - enabled: 1
+    path: Assets/Scene abata/ain.unity
+    guid: 4425b0bb2ad484547b4047f6ab91023f
+  - enabled: 1
+    path: Assets/Scene abata/ghain.unity
+    guid: 95ed0351cd3a4b04283187e3fd0aff99
+  - enabled: 1
+    path: Assets/Scene abata/fa.unity
+    guid: 894937564959e8745b6a6f165bc52c54
+  - enabled: 1
+    path: Assets/Scene abata/qof.unity
+    guid: 5dd76cc3346e1e14fbc4de1bb93bdb7c
+  - enabled: 1
+    path: Assets/Scene abata/kaf.unity
+    guid: 4ddf469ee94e573448d221e4ab04f80a
+  - enabled: 1
+    path: Assets/Scene abata/lam.unity
+    guid: 9ee110ed0c000064691fb9740413d99e
+  - enabled: 1
+    path: Assets/Scene abata/mim.unity
+    guid: 52b758fadba51f949b7054f557b80e4d
+  - enabled: 1
+    path: Assets/Scene abata/nun.unity
+    guid: dcc4d7bacb54e1f478d8e0845226ca4f
+  - enabled: 1
+    path: Assets/Scene abata/wawu.unity
+    guid: 4c9adf78ff0d72646be154ef8aab3039
+  - enabled: 1
+    path: Assets/Scene abata/Habesar.unity
+    guid: 5054908705258a849a0bb10c32a518ad
+  - enabled: 1
+    path: Assets/Scene abata/lamalif.unity
+    guid: 6c4ec254acc1e5245888e585cbdf9cae
+  - enabled: 1
+    path: Assets/Scene abata/hamzah.unity
+    guid: 3d0c4b84ee8446d4aa8a3848b336bb4b
+  - enabled: 1
+    path: Assets/Scene abata/tho.unity
+    guid: 5dcc47ae89bd5004bab35d9d6824baff
+  - enabled: 1
+    path: Assets/Scene abata/ya.unity
+    guid: 34fcfa55af506894591f5015a1871eb6
+  - enabled: 1
+    path: Assets/marka.unity
+    guid: 47275f3b59016e04d9d788ec7b46c43c
+  - enabled: 1
+    path: Assets/Bermain.unity
+    guid: 9efc652f321544349907c54c3f5859a5
+  - enabled: 1
+    path: Assets/balon.unity
+    guid: f5a3e193d1d7e0646b3e28d72c8364c7
+  m_configObjects: {}
