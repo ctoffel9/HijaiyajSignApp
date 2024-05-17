@@ -6,6 +6,7 @@ using UnityEngine.SceneManagement;
 
 public class controlquest : MonoBehaviour
 {
+    [SerializeField] GameObject AppreciationUI;
     [System.Serializable]
     public class Soals
     {
@@ -62,8 +63,7 @@ public class controlquest : MonoBehaviour
             }
            else
             {
-                SceneManager.LoadScene("Bermain");
-                Debug.Log("Finish Game");
+                StartCoroutine(ChangeScene());
             }
         }
         else
@@ -121,6 +121,16 @@ public class controlquest : MonoBehaviour
         jawabanBenar = soals[indexRandomSoal[urutanSoal]].elementSoals.kunciJawaban;
 
     }
+
+    IEnumerator ChangeScene()
+    {
+        AppreciationUI.SetActive(true);
+        yield return new WaitForSeconds(2f);
+        SceneManager.LoadScene("Bermain");
+        Debug.Log("Finish Game");
+    }
+
+    
 
    
 }

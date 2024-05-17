@@ -13,7 +13,7 @@ public class mulaisound : MonoBehaviour
     {
         if (SoundManager.Instance.music.mute == true)
         {
-            buttonMute.image.sprite = spriteMute[3];
+            buttonMute.image.sprite = spriteMute[1];
         }
         else
         {
@@ -37,7 +37,7 @@ public class mulaisound : MonoBehaviour
 
         if (SoundManager.Instance.music.mute == true)
         {
-            buttonMute.image.sprite = spriteMute[3];
+            buttonMute.image.sprite = spriteMute[1];
         }
         else
         {

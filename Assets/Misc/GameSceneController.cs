@@ -28,8 +28,7 @@ public class GameSceneController : MonoBehaviour
             }
            else
             {
-                Destroy(playTime);
-                SceneManager.LoadScene("Bermain");
+                StartCoroutine(ChangeScene());
             }
             
         }
@@ -51,11 +50,19 @@ public class GameSceneController : MonoBehaviour
     IEnumerator ResetScene()
     {
      
-        AppreciationUI.SetActive(true);
-        yield return new WaitForSeconds(1f);
+        
+        yield return new WaitForSeconds(0f);
         SceneManager.LoadScene(SceneManager.GetActiveScene().name);
         added = true;
         playTime.GetComponent<PlayCounter>().playTime = playTime.GetComponent<PlayCounter>().playTime + 1;
         added = false;
+    }
+
+    IEnumerator ChangeScene()
+    {
+        AppreciationUI.SetActive(true);
+        yield return new WaitForSeconds(2f);
+        Destroy(playTime);
+        SceneManager.LoadScene("Bermain");
     }
 }
